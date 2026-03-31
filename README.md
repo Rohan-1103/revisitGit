@@ -20,4 +20,6 @@
 
 ### Branching strategies
 13. git branch `branch_name`:
-14. git checkout `branch_name`
+14. git checkout `branch_name`:
+15. git merge `branch_name`:      
+16. git branch -d `branch_name`:
