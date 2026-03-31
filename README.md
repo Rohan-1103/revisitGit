@@ -11,3 +11,7 @@
 9. git remote -v:
 10. git push -u `origin` `main`:
 11. git config --global user.name "Rohan-1103":
+12. git pull origin main: 
+
+- conda create -p venv python==3.13 -y:
+- conda activate venv/:
