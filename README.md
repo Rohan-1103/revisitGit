@@ -2,7 +2,7 @@
 
 1. git init:
 2. git status:
-3. git add:
+3. git add .:
 4. git rm --cached:
 5. git branch:
 6. git commit -m:
