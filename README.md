@@ -1,5 +1,5 @@
-### Practicing git commands
-
+## Practicing git commands
+### Basic git commands
 1. git init:
 2. git status:
 3. git add .:
@@ -13,5 +13,11 @@
 11. git config --global user.name "Rohan-1103":
 12. git pull origin main: 
 
+### Adding virtual conda environment
 - conda create -p venv python==3.13 -y:
 - conda activate venv/:
+
+
+### Branching strategies
+13. git branch `branch_name`:
+14. git checkout `branch_name`
